@@ -1,0 +1,30 @@
+План действий:
+
+1. Прочитать про GIT(контроль версий)
+Папка /Literature/Git
+1.1 Создать свой репозиторий на 
+	GitHub, https://githab.com/
+	GitLab, https://gitlab.com/
+	или российском хосте, https://gitflic.ru/
+
+2. Установить среду разработки QtCreator
+Папка /Distrib/QtCreator/Windows/QtCreator+toolchains для Windows
+Папка /Distrib/QtCreator/Windows/QtCreator+toolchains для Unix
+
+3. Почитать /Literature/Cmd+bat/ 
+	3.1 cmd_1.pdf (cmd_1.1.pdf)
+	По данной литературе научится:
+	- открывать командную строку, 
+	- перейти на диск c:, d:,
+	- создавать директорию,
+	- перейти в любой каталог, посмотреть содержимое папки,
+	- создать файл, удалить файл,
+	- перейти выше по каталогу (в родительскую директорию).
+	
+	cmd+task.pdf
+	По данной литературе выполнить задание, работы с ipconfig, ping, route
+	
+	
+
+	
+
